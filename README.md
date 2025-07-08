@@ -1,6 +1,6 @@
 # 🚀 First 10 Users - An Awesome SaaS Directory
 
-A curated, community-driven list of helpful Software-as-a-Service (SaaS) products, organized by main category. Each SaaS is looking for its first 10 users and has its own markdown page with details, making it easy to browse, contribute, and discover new tools.
+Join our curated, community-driven list of helpful Software-as-a-Service (SaaS) products, organized by main category. Each SaaS is looking for its first 10 users and has its own markdown page with details, making it easy to browse, contribute, and discover new tools.
 
 ## 📁 Project Structure
 
@@ -25,7 +25,7 @@ A curated, community-driven list of helpful Software-as-a-Service (SaaS) product
 Want to add your SaaS? Please follow these steps:
 
 1. **⭐ Star & Follow**
-   - Star this repository on GitHub!
+   - [Star this repository on GitHub!](http://github.com/lankeami/first10users)
    - Click "Watch" to stay updated.
    - Follow [@lankeami.bsky.social](https://bsky.app/profile/lankeami.bsky.social) on BlueSky.
 
@@ -55,7 +55,7 @@ Want to add your SaaS? Please follow these steps:
      - Feature 2
 
      ## Pricing
-     - Free tier? Paid plans?
+     - Free tier? Paid plans? What deal are you providing our community?
 
      ## Socials
      - Twitter: [@yourhandle](https://twitter.com/yourhandle)
