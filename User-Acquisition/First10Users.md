@@ -1,6 +1,6 @@
 # First10Users
 
-![First10Users Banner](https://first10users.com/banner.png)
+![First10Users Banner](https://first10users.com/images/banner.png)
 
 ## Description
 First10Users helps SaaS founders and indie hackers get their first 10 paying users through proven strategies, actionable guides, and community support.
